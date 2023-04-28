@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexMercer1976
 - 👀 I’m interested in videogame
 - 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on call of duty online lan project
+- 💞️ I’m looking to collaborate on ccooddll lan project
 - 📫 How to reach me ... maybe on outlook ?
 
 <!---
